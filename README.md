@@ -1,2 +1,8 @@
-# customerchurn
-Customer Churn Project 
+#  Customer Churn Project 
+This is my final project for a MA Course in Data Mining. Included in this repository is our code, and presentation. We performed 8 different techniques on the data to showcase our abilities as well as, predict customer churn at this hypothetical bank. It was a fun project that truly helped organize my understanding of predictive analysis and be able to communicate actionable insights to stakeholders. 
+
+Link to dataset: https://www.kaggle.com/datasets/gauravtopre/bank-customer-churn-dataset
+Backgound: 
+Customer churn accounts for the amount of paying customers who will no longer be using a service or continue being a customer of a certain business. Churn prediction is essential for any successful business. High customer churn can not only be expensive for a business, but it also demonstrates that customers may be dissatisfied with the business’s products or services. This will negatively impact future growth and revenue. So, it is important to try to minimize customer churn by understanding what variables impact this potential problem. If a business can identify what variables are most significant in determining whether or not a customer will continue using their products or services, they can minimize churn and maximize profits.
+
+Any business is impacted by customer churn. Banks, for example, want customers to continue using their services and be loyal to their bank for as long as possible. For banks, understanding customer churn is especially important because there are many bank chains/competitors. So, in order to keep customers loyal to their company, they must understand what might impact a customer to leave and join another bank. Conversely, they may want to understand or identify trends in what attributes long term loyal customers have as well. Ultimately, understanding patterns by viewing operational data, like tenure, credit card usage, or even country of residence can help a business predict the probability of churn for each customer.
